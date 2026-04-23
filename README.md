@@ -27,6 +27,8 @@ customer support tickets to the correct team without manual intervention.
 - 📧 **Gmail** — Automated acknowledgement email sent to customer
 
 🎥 [Watch Video Walkthrough] https://www.loom.com/share/3a73053667994dbc99805d4f6ce73b69
+Document workflow https://github.com/akshaysr89-crypto/Portfolio/blob/main/Airtribe%20Assignment%202.pdf
+
 
 
 
