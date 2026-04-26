@@ -93,4 +93,4 @@ the workflow significantly more efficient and cost-effective.
 
 🎥 [Watch Demo Video https://www.loom.com/share/e1b52040abad4f0cb58c14e92299c3ab
 
-📄 [View Full PDF Submission](PASTE YOUR PDF LINK HERE)
+📄 [View Full PDF Submission] https://github.com/akshaysr89-crypto/Portfolio/blob/main/E-commerce%20Order%20Tracker.pdf
