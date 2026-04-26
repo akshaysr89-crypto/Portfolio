@@ -30,15 +30,38 @@ customer support tickets to the correct team without manual intervention.
 Document workflow https://github.com/akshaysr89-crypto/Portfolio/blob/main/Airtribe%20Assignment%202.pdf
 
 
+---
 
+---
 
+## 📁 Assignment 3 — Telegram AI Assistant (Marketing & Growth)
 
+Built a Telegram-based AI Campaign Assistant that understands natural language queries 
+and performs real-world actions using MCP integrations and RAG-based knowledge retrieval.
 
+### 🧠 How It Works:
+- 💬 **Telegram** — User sends a message to the bot
+- 🔁 **n8n** — Processes the query and routes it to the correct action
+- 📚 **RAG (Knowledge Base)** — Answers questions using Brand Guidelines & Campaign Strategies
+- ⚙️ **MCP Actions** — Performs real-world tasks based on user intent
 
+### ⚡ Actions Supported:
+- ✅ **Google Tasks** — Creates tasks (e.g. "Create task: publish post")
+- 📧 **Gmail** — Sends emails (e.g. "Send influencer outreach email")
+- 📅 **Google Calendar** — Schedules meetings (e.g. "Schedule campaign review Monday")
+- 🔍 **RAG Queries** — Answers questions (e.g. "What tone should we use for the launch?")
 
+### 📋 Knowledge Base Used:
+- Brand Guidelines
+- Campaign Strategies
 
+### 🎯 Key Outcomes:
+- Eliminated tool switching for marketing teams
+- Enabled  campaign management via Telegram
+- Automated influencer emails and campaign scheduling in one interface
 
+🎥 [Watch Demo Video] https://www.loom.com/share/75df22ac48234f239188183f2706be43
 
+📄 [View Full PDF Submission] 
 
-
-
+---
