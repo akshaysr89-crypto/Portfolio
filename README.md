@@ -35,6 +35,7 @@ Document workflow https://github.com/akshaysr89-crypto/Portfolio/blob/main/Airtr
 ---
 
 ## 📁 Assignment 3 — Telegram AI Assistant (Marketing & Growth)
+Marketing / Growth | Tools Used: n8n | Telegram | Google Tasks | Gmail | Google Calendar**
 
 Built a Telegram-based AI Campaign Assistant that understands natural language queries 
 and performs real-world actions using MCP integrations and RAG-based knowledge retrieval.
@@ -62,6 +63,34 @@ and performs real-world actions using MCP integrations and RAG-based knowledge r
 
 🎥 [Watch Demo Video] https://www.loom.com/share/75df22ac48234f239188183f2706be43
 
-📄 [View Full PDF Submission] 
+📄 [View Full PDF Submission]  https://github.com/akshaysr89-crypto/Portfolio/blob/main/Telegram%20Bot%20assignment%20(2).pdf
 
 ---
+## 📁 Assignment 4 — E-Commerce Order Tracker 
+ | Tools Used: n8n | Gmail | Google Sheets | AI Agent
+
+Built an automated order tracking workflow that pulls multiple e-commerce order 
+confirmation emails from Gmail, aggregates them, and uses AI to extract and 
+categorise all order details in one batch — eliminating manual order tracking.
+
+### 📦 Data Extracted Per Order:
+- 🏪 Store Name
+- 🔢 Order ID
+- 🛍️ Items Purchased
+- 💰 Amount & Currency
+- 📅 Order Date & Expected Delivery Date
+- 🏷️ Category (Electronics / Clothing / Groceries / Beauty / Books / Home / Food / Other)
+
+### ⚡ Key Concept — Batch Processing:
+Instead of making one AI call per email, the **Aggregate Node** collects all 
+order emails first and sends them to the AI agent in a single batch — making 
+the workflow significantly more efficient and cost-effective.
+
+### 🎯 Key Outcomes:
+- Eliminated manual tracking of orders across multiple stores
+- Automatically categorised spending by product type
+- Logged 15+ orders with full details into Google Sheets
+
+🎥 [Watch Demo Video https://www.loom.com/share/e1b52040abad4f0cb58c14e92299c3ab
+
+📄 [View Full PDF Submission](PASTE YOUR PDF LINK HERE)
