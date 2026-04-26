@@ -13,7 +13,7 @@ chain-of-thought reasoning, and recursive self-review mechanisms.
 - 📝 **Generate Performance Feedback** — 360-degree annual appraisal summaries for treasury team members
 https://github.com/akshaysr89-crypto/Portfolio/blob/main/Prompt%20Library%20Airtribe.pdf
 
-Assignment 2 — Support Ticket Automation Workflow (QuickCart)
+## 📁 Assignment 2 — Support Ticket Automation Workflow (QuickCart)
 **Tools Used: Google Forms | Google Sheets | n8n | Gmail**
 
 Built an end-to-end automation system for QuickCart to automatically route 
