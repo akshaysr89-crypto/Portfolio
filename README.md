@@ -116,7 +116,11 @@ everything in an admin dashboard with live stats and full invoice history.
 
 🔗 [Live App on Replit](https://replit.com/@akshaysr89/Invoice-Decision-Hub)
 🔗 [GitHub Commit History](https://github.com/akshaysr89-crypto/Invoice-generation-tool/commits/main/)
-🎥 [Watch Demo Video](PASTE YOUR VIDEO LINK HERE)
-📄 [View Full PDF Submission] https://www.loom.com/share/61d1728b3a23428690afb660ba3cb4a4
+🎥 [Watch Demo Video] https://www.loom.com/share/61d1728b3a23428690afb660ba3cb4a4
+📄 [View Full PDF Submission] https://github.com/akshaysr89-crypto/Portfolio/blob/main/Invoice%20Tracker.pdf
+
+
+
+
 
 ---
