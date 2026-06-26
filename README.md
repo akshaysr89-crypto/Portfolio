@@ -98,3 +98,25 @@ the workflow significantly more efficient and cost-effective.
 🎥 [Watch Demo Video](https://www.loom.com/share/e1b52040abad4f0cb58c14e92299c3ab)
 
 📄 [View Full PDF Submission] https://github.com/akshaysr89-crypto/Portfolio/blob/main/E-commerce%20Order%20Tracker.pdf
+
+---
+
+## 📁 Assignment 5 — InvoiceGuard: Invoice Decision Tool (Finance Track)
+**Stack: Node.js, Express, SQLite | Built on Replit | Tracked via Git/GitHub**
+
+A full-stack invoice decision system: a frontend form feeds an Express backend, 
+which runs invoices through a rule-based risk engine (flagging amount, due-date 
+urgency, vendor history, and payment terms), stores results in SQLite, and surfaces 
+everything in an admin dashboard with live stats and full invoice history.
+
+### 🎯 Key Outcomes:
+- Shipped a full-stack, multi-layer decision system — not a single-step automation
+- Explainable, rule-based risk logic with auditable decision flags (Approved / Review Required / Rejected)
+- Built in 6 staged Git commits showing structured, end-to-end development
+
+🔗 [Live App on Replit](https://replit.com/@akshaysr89/Invoice-Decision-Hub)
+🔗 [GitHub Commit History](https://github.com/akshaysr89-crypto/Invoice-generation-tool/commits/main/)
+🎥 [Watch Demo Video](PASTE YOUR VIDEO LINK HERE)
+📄 [View Full PDF Submission] https://www.loom.com/share/61d1728b3a23428690afb660ba3cb4a4
+
+---
