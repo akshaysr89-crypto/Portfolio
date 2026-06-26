@@ -3,6 +3,8 @@ Akshay's AI Portfolio Projects
 AI & Prompt Engineering projects built as part of the Airtribe program.
 
 ## 📁 Assignment 1 — Prompt Library: Sales & Operations (Treasury & Transaction Banking)
+**Track 3 — Business, Sales & Operations**
+
 A production-ready AI prompt library for Operations professionals in Treasury 
 and Transaction Banking. Each prompt is structured with context, rules, 
 chain-of-thought reasoning, and recursive self-review mechanisms.
@@ -11,7 +13,10 @@ chain-of-thought reasoning, and recursive self-review mechanisms.
 - 📧 **Drafting Client Emails** — Professionally toned external emails for treasury claims and payment queries
 - 📋 **Document SOPs & Internal Processes** — Structured process overview for Treasury Transaction Banking teams
 - 📝 **Generate Performance Feedback** — 360-degree annual appraisal summaries for treasury team members
-https://github.com/akshaysr89-crypto/Portfolio/blob/main/Prompt%20Library%20Airtribe.pdf
+
+📄 [View Full Prompt Library PDF](https://github.com/akshaysr89-crypto/Portfolio/blob/main/Prompt%20Library%20Airtribe.pdf)
+
+---
 
 ## 📁 Assignment 2 — Support Ticket Automation Workflow (QuickCart)
 **Tools Used: Google Forms | Google Sheets | n8n | Gmail**
@@ -26,16 +31,14 @@ customer support tickets to the correct team without manual intervention.
 - 🔀 **Routing Logic** — Ticket routed to correct support team
 - 📧 **Gmail** — Automated acknowledgement email sent to customer
 
-🎥🎥 🎥 [Watch Video Walkthrough](https://www.loom.com/share/3a73053667994dbc99805d4f6ce73b69)
+🎥 [Watch Video Walkthrough](https://www.loom.com/share/3a73053667994dbc99805d4f6ce73b69)
 
 📄 [Document Workflow PDF](https://github.com/akshaysr89-crypto/Portfolio/blob/main/Airtribe%20Assignment%202.pdf)
 
 ---
 
----
-
 ## 📁 Assignment 3 — Telegram AI Assistant (Marketing & Growth)
-Marketing / Growth | Tools Used: n8n | Telegram | Google Tasks | Gmail | Google Calendar**
+**Track 2 — Marketing / Growth | Tools Used: n8n | Telegram | Google Tasks | Gmail | Google Calendar**
 
 Built a Telegram-based AI Campaign Assistant that understands natural language queries 
 and performs real-world actions using MCP integrations and RAG-based knowledge retrieval.
@@ -58,13 +61,14 @@ and performs real-world actions using MCP integrations and RAG-based knowledge r
 
 ### 🎯 Key Outcomes:
 - Eliminated tool switching for marketing teams
-- Enabled  campaign management via Telegram
+- Enabled campaign management via Telegram
 - Automated influencer emails and campaign scheduling in one interface
 
-🎥 [Watch Demo Video] https://www.loom.com/share/75df22ac48234f239188183f2706be43
+🎥 [Watch Demo Video](https://www.loom.com/share/75df22ac48234f239188183f2706be43)
 
-📄 [View Full PDF Submission]  https://github.com/akshaysr89-crypto/Portfolio/blob/main/Telegram%20Bot%20assignment%20(2).pdf
+📄 [View Full PDF Submission](https://github.com/akshaysr89-crypto/Portfolio/blob/main/Telegram%20Bot%20assignment%20(2).pdf)
 
+---
 ---
 ## 📁 Assignment 4 — E-Commerce Order Tracker 
  | Tools Used: n8n | Gmail | Google Sheets | AI Agent
