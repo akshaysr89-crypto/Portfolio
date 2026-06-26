@@ -26,9 +26,9 @@ customer support tickets to the correct team without manual intervention.
 - 🔀 **Routing Logic** — Ticket routed to correct support team
 - 📧 **Gmail** — Automated acknowledgement email sent to customer
 
-🎥 [Watch Video Walkthrough] https://www.loom.com/share/3a73053667994dbc99805d4f6ce73b69
-Document workflow https://github.com/akshaysr89-crypto/Portfolio/blob/main/Airtribe%20Assignment%202.pdf
+🎥🎥 🎥 [Watch Video Walkthrough](https://www.loom.com/share/3a73053667994dbc99805d4f6ce73b69)
 
+📄 [Document Workflow PDF](https://github.com/akshaysr89-crypto/Portfolio/blob/main/Airtribe%20Assignment%202.pdf)
 
 ---
 
@@ -91,6 +91,6 @@ the workflow significantly more efficient and cost-effective.
 - Automatically categorised spending by product type
 - Logged 15+ orders with full details into Google Sheets
 
-🎥 [Watch Demo Video https://www.loom.com/share/e1b52040abad4f0cb58c14e92299c3ab
+🎥 [Watch Demo Video](https://www.loom.com/share/e1b52040abad4f0cb58c14e92299c3ab)
 
 📄 [View Full PDF Submission] https://github.com/akshaysr89-crypto/Portfolio/blob/main/E-commerce%20Order%20Tracker.pdf
